@@ -101,3 +101,7 @@ Phát hiện thêm ký tự AI nào hay lộ mà skill chưa cover? Mở Issue h
 ## License
 
 MIT. Dùng thoải mái cho cá nhân và thương mại.
+
+Tác Giả Thanh Nguyen
+https://www.facebook.com/ThanhNDVN/
+https://www.tnd.vn/
